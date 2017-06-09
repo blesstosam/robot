@@ -1,0 +1,19 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "litter thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sma",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.24.1"
+  },
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
